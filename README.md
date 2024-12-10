@@ -1,13 +1,14 @@
-# Try to do pipeline with Prefect using python and sqlite3 to understand about ETL Process
-![Library that used in this project](images/library.png)
-
-## ETL Process : 
+## Try to do pipeline with Prefect using python and sqlite3 to understand about ETL Process
+# ETL Process concept : 
 
 ![ETL Process Concept 1](https://github.com/user-attachments/assets/81e72b4e-7814-411e-9a3a-6dfbf59e8d48)
 
 ![ETL Process Concept 2](https://github.com/user-attachments/assets/404a6b8d-da9f-4348-a59a-40dbd0f5a5ac)
 
-Working step:
+## Library that use in this project
+![Library that used in this project](images/library.png)
+
+### Working step:
 1. Extract
    ![Extract step](images/extract.png)
 2. Transform
@@ -15,6 +16,7 @@ Working step:
 3. Load
    ![Load step](images/load.png)
 
+---
 
 ## See task and flow status in Prefect Dashboard
 type 'prefect start server' to check out the dashboard at http://127.0.0.1:4200
