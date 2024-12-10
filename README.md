@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/81e72b4e-7814-411e-9a3a-6dfbf59e8d48)# Try to do pipeline with Prefect using python and sqlite3 to understand about ETL Process
+# Try to do pipeline with Prefect using python and sqlite3 to understand about ETL Process
 ![Library that used in this project](images/library.png)
 
-ETL Process :
-![ETL Process Concept 1]([https://www.example.com/images/example.png](https://www.informatica.com/content/dam/informatica-com/en/images/misc/etl-process-explained-diagram.png))
+## ETL Process : 
 
+![ETL Process Concept 1](https://github.com/user-attachments/assets/81e72b4e-7814-411e-9a3a-6dfbf59e8d48)
 
-![ETL Process Concept 2]([https://www.example.com/images/example.png](https://media.geeksforgeeks.org/wp-content/uploads/ETL.jpg))
+![ETL Process Concept 2](https://github.com/user-attachments/assets/404a6b8d-da9f-4348-a59a-40dbd0f5a5ac)
 
 Working step:
 1. Extract
