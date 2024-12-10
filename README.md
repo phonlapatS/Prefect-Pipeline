@@ -12,7 +12,7 @@ type prefect start server to check out the dashboard at http://127.0.0.1:4200
 
 ---
 
-## ตรวจสอบใน Sqlite3
+### ตรวจสอบใน Sqlite3
 เข้า DB ผ่าน Terminal
 ![Use database](images/use_winedata_db.png)
 
