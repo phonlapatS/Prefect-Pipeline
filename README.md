@@ -1,9 +1,9 @@
 # Do Pipeline with Prefect using Python and Sqlite3 based on ETL Process
 ## ETL Process concept : 
 
-![ETL Process Concept 1](https://github.com/user-attachments/assets/81e72b4e-7814-411e-9a3a-6dfbf59e8d48)
+![ETL Process Concept 1](https://github.com/user-attachments/assets/90c963ca-7216-4392-b76c-6607d354ea23)
 
-![ETL Process Concept 2](https://github.com/user-attachments/assets/404a6b8d-da9f-4348-a59a-40dbd0f5a5ac)
+![ETL Process Concept 2](https://github.com/user-attachments/assets/57886215-0b1f-4611-8bd5-b7d5679805b0)
 
 ## Library that use in this project
 ![Library that used in this project](images/library.png)
