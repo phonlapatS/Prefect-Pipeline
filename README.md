@@ -1,5 +1,8 @@
 # Data Pipeline with Prefect using Python and Sqlite3 based on ETL Process
-## ETL Process concept : 
+
+---
+
+ETL Process concept : 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a5b806a-52cd-443b-b9cc-a94e1a19ce07" alt="ETL Process Concept 1" />
