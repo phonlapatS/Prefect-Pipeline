@@ -1,11 +1,11 @@
-# Try to do pipeline with Prefect using python and sqlite3 to understand about ETL Process
+![image](https://github.com/user-attachments/assets/81e72b4e-7814-411e-9a3a-6dfbf59e8d48)# Try to do pipeline with Prefect using python and sqlite3 to understand about ETL Process
 ![Library that used in this project](images/library.png)
 
 ETL Process :
-![ETL Process Concept 1](https://example.com/path/to/your/image.png](https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fetl-process-in-data-warehouse%2F&psig=AOvVaw2to_QSLnOPKnGATKXk2TLp&ust=1733921034594000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjMhK2dnYoDFQAAAAAdAAAAABAE)
+![ETL Process Concept 1]([https://www.example.com/images/example.png](https://www.informatica.com/content/dam/informatica-com/en/images/misc/etl-process-explained-diagram.png))
 
 
-![ETL Process Concept 2](https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.informatica.com%2Fresources%2Farticles%2Fwhat-is-etl.html&psig=AOvVaw2to_QSLnOPKnGATKXk2TLp&ust=1733921034594000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjMhK2dnYoDFQAAAAAdAAAAABAJ)
+![ETL Process Concept 2]([https://www.example.com/images/example.png](https://media.geeksforgeeks.org/wp-content/uploads/ETL.jpg))
 
 Working step:
 1. Extract
