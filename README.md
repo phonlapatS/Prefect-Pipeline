@@ -2,13 +2,14 @@
 type prefect start server to check out the dashboard at http://127.0.0.1:4200
 
 ## Dashboard
+![Prefect Dashboard](images/Dashboard.png)
 
 ### 1. ภาพสถานะ Flow Overview
-![ภาพ Flow Overview](images/Screenshot-2567-12-10-at-19.50.33.png)
+![ภาพ Flow Overview](images/Flow overview.png)
 
 ---
 
 ### 2. ภาพแสดงการทำงาน Task
-![ภาพ Task Details](images/Screenshot-2567-12-10-at-19.50.44.png)
+![ภาพ Task Details](images/Task.png)
 
 
